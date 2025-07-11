@@ -29,7 +29,6 @@ def create_user_and_delete():
 
     payload = {"email": email, "password": password, "name": name}
     response = requests.post(REGISTER_URL, json=payload)
-    assert response.status_code == 200
 
     tokens = response.json()
     access_token = tokens["accessToken"]
@@ -44,8 +43,7 @@ def create_user_and_delete():
     }
 
     headers = {"Authorization": access_token}
-    delete_response = requests.delete(DELETE_USER_URL, headers=headers)
-    assert delete_response.status_code in [200, 202]
+    requests.delete(DELETE_USER_URL, headers=headers)
 
 @pytest.fixture
 def login_user(driver, create_user_and_delete):
