@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a386e51-9ef7-410d-80c7-c307d0b3341a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Sprint_5/.idea/Sprint_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/data/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/data/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/data/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/tests/test_change_data_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/tests/test_create_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/tests/test_create_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/tests/test_get_order_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diplom_2/tests/test_login_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qa_python_1/.idea/qa_python_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../qa_python_2/.idea/qa_python_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tasks/.idea/tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qa_quru_15_7/.idea/qa_quru_15_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pythonProjectexam/.idea/pythonProjectexam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../qa_quru_lesson_5_15/.idea/qa_quru_lesson_5_15.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sprint_5/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sprint_5/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sprint_5/factory_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sprint_5/factory_helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sprint_5/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sprint_5/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sprint_5/test_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sprint_5/tests/test_create_ad.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sprint_5/tests/test_create_ad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sprint_5/tests/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sprint_5/tests/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sprint_5/tests/test_logout.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sprint_5/tests/test_logout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sprint_5/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sprint_5/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/data/order_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/data/order_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/data/text_ans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/data/text_ans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/locators/locator_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/locators/locator_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/locators/order_page_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/locators/order_page_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/pages/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/pages/main_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/pages/order_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/pages/order_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/tests/test_logo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/tests/test_logo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/tests/test_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/tests/test_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/tests/test_questions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/tests/test_questions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_6/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_6/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_7/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_7/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_7/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_7/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_7/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_7/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_7/tests/test_creating_courier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_7/tests/test_creating_courier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_7/tests/test_login_curier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_7/tests/test_login_curier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint_7/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint_7/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/qa_python_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasks/basic operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tasks/basic operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasks/string.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tasks/string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasks/uslovnue_operotori.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tasks/uslovnue_operotori.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasks/данные.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tasks/данные.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../qa_quru_15_7/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../qa_quru_15_7/download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../qa_quru_lesson_5_15/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../qa_quru_lesson_5_15/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../qa_quru_lesson_5_15/tests/test_todomvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../qa_quru_lesson_5_15/tests/test_todomvc.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2zUz9ncinUMH7qOGzGJu1K3GlHf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests in tests">
+    <configuration name="Python tests for test_order_feed.TestOrderFeed.test_create_order_number_in_feed_list" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_order_feed.TestOrderFeed.test_create_order_number_in_feed_list&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_order_feed.TestOrderFeed.test_user_orders_displayed" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_order_feed.TestOrderFeed.test_user_orders_displayed&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_pass_recover.TestPasswordRecoveryFlow" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pass_recover.TestPasswordRecoveryFlow&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_pass_recover.TestPasswordRecoveryFlow.test_show_hide_pass" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pass_recover.TestPasswordRecoveryFlow.test_show_hide_pass&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Diplom3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in tests" />
+        <item itemvalue="Python tests.Python tests for test_order_feed.TestOrderFeed.test_user_orders_displayed" />
+        <item itemvalue="Python tests.Python tests for test_pass_recover.TestPasswordRecoveryFlow.test_show_hide_pass" />
+        <item itemvalue="Python tests.Python tests for test_pass_recover.TestPasswordRecoveryFlow" />
+        <item itemvalue="Python tests.Python tests for test_order_feed.TestOrderFeed.test_create_order_number_in_feed_list" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a386e51-9ef7-410d-80c7-c307d0b3341a" name="Changes" comment="" />
+      <created>1751800290770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751800290770</updated>
+      <workItem from="1751800292940" duration="56229000" />
+      <workItem from="1752090033440" duration="3919000" />
+      <workItem from="1752233743515" duration="1761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Diplom3$.coverage" NAME=" Coverage Results" MODIFIED="1752236914802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+  </component>
+</project>
